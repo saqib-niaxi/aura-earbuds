@@ -2,7 +2,7 @@
 
 A scroll-driven product launch page for fictional wireless earbuds, designed in Claude Design and built with React, TypeScript and Three.js.
 
-**Live:** https://aura-earbuds.vercel.app
+**Live:** https://aura-one-earbuds.vercel.app
 
 ![Scrolling through the AURA launch page](docs/preview.gif)
 
